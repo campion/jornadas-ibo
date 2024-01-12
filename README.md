@@ -1,1 +1,1 @@
-# jornadas-ibo
+# Jornadas IBO 2024
