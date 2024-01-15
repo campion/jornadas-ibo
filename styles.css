@@ -31,7 +31,12 @@ header h1 {
 /* Media query para pantallas más grandes (ordenadores) */
 @media (min-width: 768px) {
     header h1 {
-        font-size: 10em; /* Ajustar el tamaño de fuente para pantallas más grandes */
+        font-size: 5em; /* Ajustar el tamaño de fuente para pantallas más grandes */
+    }
+        /* Ancho del contenido con margen del 15% en cada lado */
+    body {
+        max-width: 70%; /* Deja un 15% de margen a cada lado (100% - 2*15%) */
+        margin: 0 auto; /* Centra el contenido */
     }
 }
 
