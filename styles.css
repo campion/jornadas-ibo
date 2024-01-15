@@ -25,6 +25,14 @@ header h1 {
     width: 100%;
     text-align: center;
     margin: 0;
+    font-size: 1.5em; /* Tamaño de fuente base */
+}
+
+/* Media query para pantallas más grandes (ordenadores) */
+@media (min-width: 768px) {
+    header h1 {
+        font-size: 2em; /* Ajustar el tamaño de fuente para pantallas más grandes */
+    }
 }
 
 nav {
