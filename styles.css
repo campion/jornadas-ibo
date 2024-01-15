@@ -31,7 +31,7 @@ header h1 {
 /* Media query para pantallas más grandes (ordenadores) */
 @media (min-width: 768px) {
     header h1 {
-        font-size: 3em; /* Ajustar el tamaño de fuente para pantallas más grandes */
+        font-size: 10em; /* Ajustar el tamaño de fuente para pantallas más grandes */
     }
 }
 
