@@ -16,10 +16,15 @@ header img {
 
 header h1 {
     position: absolute;
-    top: 50%;
+    bottom: 0;
     left: 50%;
-    transform: translate(-50%, -50%);
-    color: #004080; /* Color azul oscuro */
+    transform: translateX(-50%);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)); /* Degradado oscuro */
+    color: #ffffff; /* Color blanco */
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    margin: 0;
 }
 
 nav {
