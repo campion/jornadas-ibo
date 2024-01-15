@@ -31,9 +31,10 @@ header h1 {
 /* Media query para pantallas más grandes (ordenadores) */
 @media (min-width: 768px) {
     header h1 {
-        font-size: 5em; /* Ajustar el tamaño de fuente para pantallas más grandes */
+        font-size: 2em; /* Ajustar el tamaño de fuente para pantallas más grandes */
     }
-        /* Ancho del contenido con margen del 15% en cada lado */
+
+    /* Ancho del contenido con margen del 15% en cada lado */
     body {
         max-width: 70%; /* Deja un 15% de margen a cada lado (100% - 2*15%) */
         margin: 0 auto; /* Centra el contenido */
@@ -75,12 +76,30 @@ h2 {
     color: #006600; /* Color verde oscuro */
 }
 
+/* Estilos para la sección del Programa con columnas */
+section#programa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.columnas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.columna {
+    flex: 0 0 48%; /* Establece el ancho de cada columna */
+    margin: 10px;
+}
+
 footer {
     background-color: #004080; /* Color azul oscuro */
     color: #ffffff; /* Color blanco */
     text-align: center;
     padding: 10px;
+    width: 100%; /* Ajuste del ancho al 100% */
     position: fixed;
     bottom: 0;
-    width: 100%;
 }
