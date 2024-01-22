@@ -1,6 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Jornadas IBO 2024
-description: Jornadas de Ingeniería Biomédica en Oncología 2024
+description: Jornadas de Ingeniería Biomédica en Oncología
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 relative_links:
