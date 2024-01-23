@@ -31,11 +31,16 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 
 [Descargar tríptico](./another-page.html).
 
+
+
 ## INSCRIPCIÓN AL EVENTO
 [Rellenar el formulario](./another-page.html).
 
 
+
 ## PATROCINADORES DEL EVENTO
+
+
 
 # Header 1
 
