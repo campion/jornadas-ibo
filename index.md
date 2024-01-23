@@ -12,7 +12,7 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 ## PROGRAMA
 
 |9.30-9.45 - **ACTO INAUGURAL**|  |12:40-13:20 - **MESA 3**. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO|
-|:-------------||:------|
+|:-------------|:------------------|:------|
 |* **Enrique Casado Sáenz<br>Jefe de Oncología HUIS**.<br>* **Enrique J. Gómez-Aguilera**<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica|  | nice  |
 |9.45-10.05 - **INTRODUCCIÓN**|  | nice  |
 |* **Oncología e Ingeniería Biomédica**<br>Enrique Casado y Enrique J. Gómez |  | nice  |
