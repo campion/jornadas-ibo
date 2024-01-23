@@ -11,9 +11,10 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 
 ## PROGRAMA
 
-| 9.30-9.45<br>ACTO INAUGURAL      |  | three |
+| 9.30-9.45 - ACTO INAUGURAL      |  | three |
 |:-------------|:------------------|:------|
-|*Enrique Casado Sáenz. Jefe de Oncología HUIS.|  | nice  |
+|* Enrique Casado Sáenz<br>Jefe de Oncología HUIS.<br>*|  | nice  |
+|* Enrique J. Gómez-Aguilera<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica|  | nice  |
 | out of stock |  | nice  |
 | ok           |  | hmm   |
 | ok           |  | yumm  |
