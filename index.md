@@ -11,8 +11,7 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 
 ## PROGRAMA
 
-| 9.30-9.45 - ACTO INAUGURAL      |  | three |
-|:-------------|:------------------|:------|
+|9.30-9.45 - **ACTO INAUGURAL**|  |12:40-13:20 - **MESA 3**. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO|
 |* **Enrique Casado Sáenz<br>Jefe de Oncología HUIS**.<br>* **Enrique J. Gómez-Aguilera**<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica|  | nice  |
 |9.45-10.05 - **INTRODUCCIÓN**|  | nice  |
 |* **Oncología e Ingeniería Biomédica**<br>Enrique Casado y Enrique J. Gómez |  | nice  |
@@ -23,6 +22,7 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 |10:50-11:05 - **Discusión**|  | nice  |
 |9.30-9.45 - **MESA 2**. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA|  | nice  |
 |* 11:05-11:20 - **InnovaHONCO**<br>**David Gutiérrez Abad**<br>Oncólogo en el HospitalUniversitario de Fuenlabrada.<br>* 11:20-11:45 - **mHEALTH-Alibird**<br>**María Sereno Moyano**<br>Oncóloga, HUIS<br>**José Iniesta**<br>Ingeniero Biomédico, UPM.<br>* 11:45-12:00 - **Discusión**.|  | nice  |
+|12:00-12:40 - **CAFÉ Y FORO EN MESAS**|  | nice  |
 
 
 
