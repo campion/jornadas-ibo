@@ -1,10 +1,9 @@
-| [Programa](#programa) | [Inscripción](#inscripcion) | [Patrocinadores](#patrocinadores) |
-
-
-
 ---
 layout: default
 ---
+| [Programa](#programa) | [Inscripción](#inscripcion) | [Patrocinadores](#patrocinadores) |
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
