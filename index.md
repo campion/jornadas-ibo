@@ -14,10 +14,10 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 | 9.30-9.45 - ACTO INAUGURAL      |  | three |
 |:-------------|:------------------|:------|
 |* Enrique Casado Sáenz<br>Jefe de Oncología HUIS.<br>* Enrique J. Gómez-Aguilera<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica|  | nice  |
-| jajaja|  | nice  |
-| out of stock |  | nice  |
-| ok           |  | hmm   |
-| ok           |  | yumm  |
+|9.45-10.05 - **INTRODUCCIÓN**|  | nice  |
+|* Oncología e Ingeniería Biomédica<br>Enrique Casado y Enrique J. Gómez |  | nice  |
+|10.05-11.05 - **MESA 1**. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR|  | hmm   |
+|* 10:05-10:20- **INFOBANCO**<br>**Juan Luis Cruz Bermúdez**<br>Jefe de Serviciode Informática, Hospital Universitario 12 deOctubre.| yumm  |
 
 
 
