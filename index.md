@@ -21,8 +21,8 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 |10:20-10:35 - **CLARIFY (Cancer LongSurvivors Artificial Intelligence FollowUp)**<br>**María Torrente**<br>Jefa de ProgramasInternacionales de Medicina, HospitalUniversitario Puerta de Hierro.|  | nice  |
 |10:35.10:50 - **SAVANA y Oncología**<br>**Andrés Muñoz**<br>Oncólogo en Hospital General Universitario Gregorio Marañón y Coordinador del Grupo de Trabajo deTrombosis y Cáncer de la SEOM.|  | nice  |
 |10:50-11:05 - **Discusión**|  | nice  |
-|9.45-10.05 - **INTRODUCCIÓN**|  | nice  |
-|9.45-10.05 - **INTRODUCCIÓN**|  | nice  |
+|9.30-9.45 - **MESA 2**. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA|  | nice  |
+|* 11:05-11:20 - **InnovaHONCO**<br>**David Gutiérrez Abad**<br>Oncólogo en el HospitalUniversitario de Fuenlabrada.<br>* 11:20-11:45 - **mHEALTH-Alibird**<br>**María Sereno Moyano**<br>Oncóloga, HUIS<br>**José Iniesta**<br>Ingeniero Biomédico, UPM.<br>* 11:45-12:00 - **Discusión**.|  | nice  |
 
 
 
