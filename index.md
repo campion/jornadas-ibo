@@ -5,9 +5,7 @@ layout: default
 
 | [Programa](#programa) | [Inscripción](#inscripción) | [Patrocinadores](#patrocinadores) |
 
-| <a href="#Programa" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Programa</a> | <a href="#Inscripción" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Inscripción</a> | <a href="#Patrocinadores" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Patrocinadores</a> |
-
-## Realidad y retos multidisciplinares en la Comunidad de Madrid
+### Realidad y retos multidisciplinares en la Comunidad de Madrid
 
 > Te invitamos a participar en las **I Jornadas de Ingeniería Biomédica y Oncología** que se celebrarán el **1 de marzo** en el **Hospital Universitario Infanta Sofía**.
 > 
