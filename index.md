@@ -34,14 +34,14 @@ layout: default
 <br>
 <br>
 
-## INSCRIPCIÓN AL EVENTO
+## INSCRIPCIÓN
 [Rellenar el formulario](./another-page.html).
 <br>
 <br>
 * * *
 
 
-## PATROCINADORES DEL EVENTO
+## PATROCINADORES 
 <br>
 <br>
 * * *
