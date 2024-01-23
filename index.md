@@ -7,11 +7,16 @@ layout: default
 
 # Realidad y retos multidisciplinares en la Comunidad de Madrid
 
-> Te invitamos a participar en las **I Jornadas de Ingeniería Biomédica y Oncología** que se celebrarán el **1 de marzo** en el **Hospital Universitario Infanta Sofía**, Aula Magna.
+> Te invitamos a participar en las **I Jornadas de Ingeniería Biomédica y Oncología** que se celebrarán el **1 de marzo** en el **Hospital Universitario Infanta Sofía**.
 > 
 > Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro entre oncólogos e ingenieros biomédicos en el que se compartan experiencias e ideas sobre cómo la ingeniería biomédica puede ayudar a afrontar los retos sanitarios en el ámbito oncológico.
 
 ## PROGRAMA
+
+<span style="color: red;">texto resaltado en rojo</span>
+
+<button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Haz clic</button>
+
 
 |9.30-9.45 - **ACTO INAUGURAL**|  
 |:------------|
