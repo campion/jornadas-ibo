@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![JornadasIBO24](cabecera_JIBO.jpg)
+
 | [Programa](#programa) | [Inscripción](#inscripción) | [Patrocinadores](#patrocinadores) |
 
 # Realidad y retos multidisciplinares en la Comunidad de Madrid
