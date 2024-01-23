@@ -11,10 +11,9 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 
 ## PROGRAMA
 
-| 9.30-9.45
-ACTO INAUGURAL      | head two          | three |
+| 9.30-9.45<br>ACTO INAUGURAL      | head two          | three |
 |:-------------|:------------------|:------|
-|*   Enrique Casado Sáenz. Jefe de Oncología HUIS.| good swedish fish | nice  |
+|*Enrique Casado Sáenz. Jefe de Oncología HUIS.| good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
