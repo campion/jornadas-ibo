@@ -13,11 +13,16 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 
 | 9.30-9.45 - ACTO INAUGURAL      |  | three |
 |:-------------|:------------------|:------|
-|* Enrique Casado Sáenz<br>Jefe de Oncología HUIS.<br>* Enrique J. Gómez-Aguilera<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica|  | nice  |
+|* **Enrique Casado Sáenz<br>Jefe de Oncología HUIS**.<br>* **Enrique J. Gómez-Aguilera**<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica|  | nice  |
 |9.45-10.05 - **INTRODUCCIÓN**|  | nice  |
-|* Oncología e Ingeniería Biomédica<br>Enrique Casado y Enrique J. Gómez |  | nice  |
+|* **Oncología e Ingeniería Biomédica**<br>Enrique Casado y Enrique J. Gómez |  | nice  |
 |10.05-11.05 - **MESA 1**. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR|  | hmm   |
 |* 10:05-10:20- **INFOBANCO**<br>**Juan Luis Cruz Bermúdez**<br>Jefe de Serviciode Informática, Hospital Universitario 12 deOctubre.| yumm  |
+|10:20-10:35 - **CLARIFY (Cancer LongSurvivors Artificial Intelligence FollowUp)**<br>**María Torrente**<br>Jefa de ProgramasInternacionales de Medicina, HospitalUniversitario Puerta de Hierro.|  | nice  |
+|10:35.10:50 - **SAVANA y Oncología**<br>**Andrés Muñoz**<br>Oncólogo en Hospital General Universitario Gregorio Marañón y Coordinador del Grupo de Trabajo deTrombosis y Cáncer de la SEOM.|  | nice  |
+|10:50-11:05 - **Discusión**|  | nice  |
+|9.45-10.05 - **INTRODUCCIÓN**|  | nice  |
+|9.45-10.05 - **INTRODUCCIÓN**|  | nice  |
 
 
 
