@@ -11,16 +11,39 @@ layout: default
 
 ## PROGRAMA
 
+### 9.30-9.45 - ACTO INAUGURAL
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
 
+### 9.45-10.05 - INTRODUCCIÓN
 
 
+### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
 
 
+### 9.30-9.45 - MESA 2. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA
 
 
+### 12:40-13:20 - MESA 3. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO
 
 
+### 13:25-14:35 - MESA 4. CIRUGÍA E IMAGEN MÉDICA. BIOÉTICA
+
+
+### 14:35-14:40 - CLAUSURA
 
 
 
