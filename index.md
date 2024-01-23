@@ -12,8 +12,8 @@ layout: default
 ## PROGRAMA
 
 ### 9.30-9.45 - ACTO INAUGURAL
-- Enrique Casado Sáenz, Jefe de Oncología HUIS.
-- Enrique J. Gómez-Aguilera, Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica.
+- *Enrique Casado Sáenz*, Jefe de Oncología HUIS.
+- *Enrique J. Gómez-Aguilera*, Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica.
 
 ### 9.45-10.05 - INTRODUCCIÓN
 
