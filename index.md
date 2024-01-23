@@ -15,8 +15,8 @@ layout: default
 - **Enrique Casado Sáenz**, *Jefe de Oncología HUIS*.
 - **Enrique J. Gómez-Aguilera**, *Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica*.
 
-### 9.45-10.05 - INTRODUCCIÓN
-#### **Oncología e Ingeniería Biomédica**, *Enrique Casado y Enrique J. Gómez*.
+### 9.45-10.05 - INTRODUCCIÓN: Oncología e Ingeniería Biomédica. 
+- *Enrique Casado y Enrique J. Gómez*.
 
 ### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
 
