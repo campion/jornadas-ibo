@@ -5,15 +5,15 @@ layout: default
 
 # Realidad y retos multidisciplinares en la Comunidad de Madrid
 
-Te invitamos a participar en las **I Jornadas de Ingeniería Biomédica y Oncología** que se celebrarán el **1 de marzo** en el **Hospital Universitario Infanta Sofía**, Aula Magna.
-
-Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro entre oncólogos e ingenieros biomédicos en el que se compartan experiencias e ideas sobre cómo la ingeniería biomédica puede ayudar a afrontar los retos sanitarios en el ámbito oncológico.
+> Te invitamos a participar en las **I Jornadas de Ingeniería Biomédica y Oncología** que se celebrarán el **1 de marzo** en el **Hospital Universitario Infanta Sofía**, Aula Magna.
+> 
+> Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro entre oncólogos e ingenieros biomédicos en el que se compartan experiencias e ideas sobre cómo la ingeniería biomédica puede ayudar a afrontar los retos sanitarios en el ámbito oncológico.
 
 ## PROGRAMA
 
 |9.30-9.45 - **ACTO INAUGURAL**|  
 |:-------------|
-|* **Enrique Casado Sáenz<br>Jefe de Oncología HUIS**.<br>* **Enrique J. Gómez-Aguilera**<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica| 
+|*    **Enrique Casado Sáenz<br>Jefe de Oncología HUIS**.<br>* **Enrique J. Gómez-Aguilera**<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica| 
 |9.45-10.05 - **INTRODUCCIÓN**|
 |* **Oncología e Ingeniería Biomédica**<br>Enrique Casado y Enrique J. Gómez |
 |10.05-11.05 - **MESA 1**. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR|
