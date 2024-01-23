@@ -28,10 +28,11 @@ layout: default
 |* 12:40-12:55- **HOPE (Hospital de DíaPersonalizado)**<br>**Cristina Caramés**, Oncóloga, DirectoraAsistencial e Investigación, QuirónSalud.<br>* 12:55-13:10 - **OncoTrack**<br>**Enrique Casado**, Oncólogo, HUIS.<br>**Eduardo Cañada**, Jefe Informática HUIS.<br>* 13:10-13:25 - **Discusión**.|
 |* 13:25-13:50 - **Cirugía digital**.<br>**José María Balibrea**, Jefe División deCirugía Bariátrica y Endocrino-Metabólica H. Germans Trias i Pujol.<br>* 13:50-14:05 - **Radiómica en Oncología**.<br>**Patricia Sánchez**, Universidad Politécnicade Madrid<br>* 14:05-14:20 - **Inteligencia Artificial y Humanización de la Medicina. Retos yoportunidades.**<br>**Joaquín Ojeda**,Neurólogo. PresidenteCómite ética Asistencias y neurólogo HUIS.<br>* 14:20-14:35 - **Discusión**.|
 |14:35-14:40 - **CLAUSURA**|
+|*   This is an unordered list following a header.|
 
 [Descargar tríptico](./another-page.html).
 
-
+*   This is an unordered list following a header.
 
 ## INSCRIPCIÓN AL EVENTO
 [Rellenar el formulario](./another-page.html).
