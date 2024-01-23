@@ -3,6 +3,22 @@ layout: default
 ---
 | [Programa](#programa) | [Inscripción](#inscripcion) | [Patrocinadores](#patrocinadores) |
 
+# Realidad y retos multidisciplinares en la Comunidad de Madrid
+
+Te invitamos a participar en las **I Jornadas de Ingeniería Biomédica y Oncología** que se celebrarán el **1 de marzo** en el **Hospital Universitario Infanta Sofía**, Aula Magna.
+
+Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro entre oncólogos e ingenieros biomédicos en el que se compartan experiencias e ideas sobre cómo la ingeniería biomédica puede ayudar a afrontar los retos sanitarios en el ámbito oncológico.
+
+## PROGRAMA
+
+| 9.30-9.45 - ACTO INAUGURAL      | head two          | three |
+|:-------------|:------------------|:------|
+|*   Enrique Casado Sáenz. Jefe de Oncología HUIS.| good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
