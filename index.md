@@ -12,23 +12,21 @@ layout: default
 ## PROGRAMA
 
 ### 9.30-9.45 - ACTO INAUGURAL
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
+- Enrique Casado Sáenz, Jefe de Oncología HUIS.
+- Enrique J. Gómez-Aguilera, Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica.
 
 ### 9.45-10.05 - INTRODUCCIÓN
+
+- level 1 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
 
 ### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
