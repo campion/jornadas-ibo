@@ -26,17 +26,16 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 |12:00-12:40 - **CAFÉ Y FORO EN MESAS**|
 |12:40-13:20 - **MESA 3**. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO|
 |* 12:40-12:55- **HOPE (Hospital de DíaPersonalizado)**<br>**Cristina Caramés**, Oncóloga, DirectoraAsistencial e Investigación, QuirónSalud.<br>* 12:55-13:10 - **OncoTrack**<br>**Enrique Casado**, Oncólogo, HUIS.<br>**Eduardo Cañada**, Jefe Informática HUIS.<br>* 13:10-13:25 - **Discusión**.|
+|* 13:25-13:50 - **Cirugía digital**.<br>**José María Balibrea**, Jefe División deCirugía Bariátrica y Endocrino-Metabólica H. Germans Trias i Pujol.<br>* 13:50-14:05 - **Radiómica en Oncología**.<br>**Patricia Sánchez**, Universidad Politécnicade Madrid<br>* 14:05-14:20 - **Inteligencia Artificial y Humanización de la Medicina. Retos yoportunidades.**<br>**Joaquín Ojeda**,Neurólogo. PresidenteCómite ética Asistencias y neurólogo HUIS.<br>* 14:20-14:35 - **Discusión**.|
+|14:35-14:40 - **CLAUSURA**|
+
+[Descargar tríptico](./another-page.html).
+
+## INSCRIPCIÓN AL EVENTO
+[Rellenar el formulario](./another-page.html).
 
 
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## PATROCINADORES DEL EVENTO
 
 # Header 1
 
