@@ -20,6 +20,12 @@ layout: default
 
 ### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
 
+#### 10:05-10:20- INFOBANCO
+- **Juan Luis Cruz Bermúdez**, *Jefe de Serviciode Informática del Hospital Universitario 12 de Octubre*.
+
+
+
+
 #### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
 
 - level 1 item
