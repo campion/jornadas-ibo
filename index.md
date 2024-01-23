@@ -13,7 +13,7 @@ Estas jornadas tienen como objetivo establecer un foro madrileño de encuentro e
 
 |9.30-9.45 - **ACTO INAUGURAL**|  |12:40-13:20 - **MESA 3**. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO|
 |:-------------|:------------------|:------|
-|* **Enrique Casado Sáenz<br>Jefe de Oncología HUIS**.<br>* **Enrique J. Gómez-Aguilera**<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica| | nice  |
+|* **Enrique Casado Sáenz<br>Jefe de Oncología HUIS**.<br>* **Enrique J. Gómez-Aguilera**<br>Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica| |* 12:40-12:55- **HOPE (Hospital de DíaPersonalizado)**<br>**Cristina Caramés**, Oncóloga, DirectoraAsistencial e Investigación, QuirónSalud.<br>* 12:55-13:10 - **OncoTrack**<br>**Enrique Casado**, Oncólogo, HUIS.<br>**Eduardo Cañada**, Jefe Informática HUIS.<br>* 13:10-13:25 - **Discusión**.|
 |9.45-10.05 - **INTRODUCCIÓN**| | nice  |
 |* **Oncología e Ingeniería Biomédica**<br>Enrique Casado y Enrique J. Gómez |  | nice  |
 |10.05-11.05 - **MESA 1**. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR|  | hmm   |
