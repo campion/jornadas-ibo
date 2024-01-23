@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-![JornadasIBO24](cabecera_JIBO.jpg)
 
 | [Programa](#programa) | [Inscripción](#inscripción) | [Patrocinadores](#patrocinadores) |
 
