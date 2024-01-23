@@ -15,7 +15,7 @@ layout: default
 
 <span style="color: red;">texto resaltado en rojo</span>
 
-<button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Haz clic</button>
+<a href="#" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Haz clic</a>
 
 
 |9.30-9.45 - **ACTO INAUGURAL**|  
