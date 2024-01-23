@@ -16,7 +16,9 @@ layout: default
 - **Enrique J. Gómez-Aguilera**, *Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica*.
 
 ### 9.45-10.05 - INTRODUCCIÓN
-- **Oncología e Ingeniería Biomédica**, *Enrique Casado y Enrique J. Gómez*.
+#### **Oncología e Ingeniería Biomédica**, *Enrique Casado y Enrique J. Gómez*.
+
+### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
 
 #### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
 
@@ -32,7 +34,7 @@ layout: default
 - level 1 item
 
 
-### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
+
 
 
 ### 9.30-9.45 - MESA 2. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA
