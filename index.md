@@ -70,12 +70,12 @@ layout: default
 
 ### <span style="color: blue; font-weight:bold;">14:35-14:40 - CLAUSURA</span>    
 
-### <span style="color: blue; font-weight:bold;">Con el aval científico de</span>
+### <span style="color: #2C837A; font-weight:bold;">Con el aval científico de</span>
 ![SEOM](LogoSEOM_reduce.jpg)
 
 
 ## INSCRIPCIÓN
-#### <span style="color: #2C837A; font-weight:bold;">Por completar...</span>  
+#### <span style="color: red; font-weight:bold;">Por completar...</span>  
 <br>
 <br>
 * * *
