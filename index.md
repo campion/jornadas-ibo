@@ -11,10 +11,6 @@ layout: default
 
 ## PROGRAMA
 
-[Rellenar el formulario](./another-page.html).
-
-<button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Descargar tríptico</button>
-
 <a href="https://www.google.es" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Descargar tríptico</a>
 
 ### <span style="color: blue; font-weight:bold;">9.30-9.45 - ACTO INAUGURAL</span> 
