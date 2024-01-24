@@ -11,14 +11,14 @@ layout: default
 
 ## PROGRAMA
 
-### 9.30-9.45 - ACTO INAUGURAL
+### <span style="color: blue; font-weight:bold;">9.30-9.45 - ACTO INAUGURAL</span> 
 - **Enrique Casado Sáenz**, *Jefe de Oncología HUIS*.
 - **Enrique J. Gómez-Aguilera**, *Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica*.
 
-### 9.45-10.05 - INTRODUCCIÓN: Oncología e Ingeniería Biomédica. 
+### <span style="color: blue; font-weight:bold;">9.45-10.05 - INTRODUCCIÓN: Oncología e Ingeniería Biomédica</span> 
 - **Enrique Casado y Enrique J. Gómez**.
 
-### 10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR
+### <span style="color: blue; font-weight:bold;">10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR</span> 
 
 #### 10:05-10:20- INFOBANCO
 - **Juan Luis Cruz Bermúdez**, *Jefe de Serviciode Informática del Hospital Universitario 12 de Octubre*.
@@ -31,7 +31,7 @@ layout: default
 
 #### 10:50-11:05 - Discusión
 
-### 9.30-9.45 - MESA 2. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA
+### <span style="color: blue; font-weight:bold;">9.30-9.45 - MESA 2. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA</span>  
 
 #### 11:05-11:20 - InnovaHONCO
 - **David Gutiérrez Abad**, *Oncólogo en el Hospital Universitario de Fuenlabrada*.
@@ -42,7 +42,7 @@ layout: default
 
 #### 11:45-12:00 - Discusión
 
-### 12:40-13:20 - MESA 3. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO
+### <span style="color: blue; font-weight:bold;">12:40-13:20 - MESA 3. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO</span>   
 
 #### 12:40-12:55- HOPE (Hospital de DíaPersonalizado)
 - **Cristina Caramés**, *Oncóloga, Directora Asistencial e Investigación, QuirónSalud*.
@@ -53,7 +53,7 @@ layout: default
 
 #### 13:10-13:25 - Discusión
 
-### 13:25-14:35 - MESA 4. CIRUGÍA E IMAGEN MÉDICA. BIOÉTICA
+### <span style="color: blue; font-weight:bold;">13:25-14:35 - MESA 4. CIRUGÍA E IMAGEN MÉDICA. BIOÉTICA</span>   
 
 #### 13:25-13:50 - Cirugía digital
 - **José María Balibrea**, *Jefe División de Cirugía Bariátrica y Endocrino-Metabólica, H. Germans Trias i Pujol*.
@@ -66,9 +66,7 @@ layout: default
 
 #### 14:20-14:35 - Discusión
 
-### 14:35-14:40 - CLAUSURA
-
-## <span style="color: red; font-weight:bold;">Prueba</span>
+### <span style="color: blue; font-weight:bold;">14:35-14:40 - CLAUSURA</span>    
 
 
 
