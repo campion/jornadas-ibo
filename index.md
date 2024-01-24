@@ -70,8 +70,8 @@ layout: default
 
 #### 14:20-14:35 - Discusión
 
-### <span style="color: blue; font-weight:bold;">14:35-14:40 - CLAUSURA</span>    
-
+### <span style="color: #D4519D; font-weight:bold;">14:35-14:40 - CLAUSURA</span>   
+<br>
 ### <span style="color: #2C837A; font-weight:bold;">Con el aval científico de</span>
 ![SEOM](LogoSEOM_reduce.jpg)
 
