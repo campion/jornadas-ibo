@@ -11,6 +11,12 @@ layout: default
 
 ## PROGRAMA
 
+[Rellenar el formulario](./another-page.html).
+
+<button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Descargar tríptico</button>
+
+<a href="#" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Descargar tríptico</a>
+
 ### <span style="color: blue; font-weight:bold;">9.30-9.45 - ACTO INAUGURAL</span> 
 - **Enrique Casado Sáenz**, *Jefe de Oncología HUIS*.
 - **Enrique J. Gómez-Aguilera**, *Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica*.
@@ -70,49 +76,17 @@ layout: default
 
 
 
-<span style="color: red;">texto resaltado en rojo</span>
-
-
-[Descargar tríptico](./another-page.html).
-<br>
-<br>
-
 ## INSCRIPCIÓN
-[Rellenar el formulario](./another-page.html).
+#### <span style="color: red; font-weight:bold;">Por completar...</span>  
 <br>
 <br>
 * * *
 
 
 ## PATROCINADORES 
+#### <span style="color: red; font-weight:bold;">Por completar...</span>  
 <br>
 <br>
 * * *
-
-
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
