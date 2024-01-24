@@ -33,7 +33,7 @@ layout: default
 
 #### 10:50-11:05 - Discusión
 
-### <span style="color: blue; font-weight:bold;">9.30-9.45 - MESA 2. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA</span>  
+### <span style="color: blue; font-weight:bold;">11:05-12:00 - MESA 2. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA</span>  
 
 #### 11:05-11:20 - InnovaHONCO
 - **David Gutiérrez Abad**, *Oncólogo en el Hospital Universitario de Fuenlabrada*.
@@ -43,6 +43,8 @@ layout: default
 - **Jose Iniesta**, *Ingeniero Biomédico, UPM*.
 
 #### 11:45-12:00 - Discusión
+
+### <span style="color: #D4519D; font-weight:bold;">12:00-12:40 - CAFÉ Y FORO EN MESAS</span>   
 
 ### <span style="color: blue; font-weight:bold;">12:40-13:20 - MESA 3. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO</span>   
 
