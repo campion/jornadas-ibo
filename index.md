@@ -75,7 +75,7 @@ layout: default
 
 
 ## INSCRIPCIÓN
-#### <span style="color: red; font-weight:bold;">Por completar...</span>  
+#### <span style="color: #2C837A; font-weight:bold;">Por completar...</span>  
 <br>
 <br>
 * * *
