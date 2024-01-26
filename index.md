@@ -74,6 +74,9 @@ layout: default
 - **Antonio Romero Plasencia**, *Director Gerente Hospital Infanta Sofía*.
 - **Ana Ramírez de Molina**, *Viceconsejera de Universidades, Investigación y Ciencia de la Comunidad de Madrid.
 
+<br>
+* * *
+
 ## CUÁNDO Y DÓNDE
 ####<span style="color: #D4519D; font-weight:bold;">Viernes 1 de Marzo de 2024</span>   
 **Aula Magna** del Hospital Universitario Infanta Sofía
@@ -82,14 +85,16 @@ layout: default
 <br>
 *San Sebastián de los Reyes, Madrid*
 
+<br>
 * * *
 
 
 ## INSCRIPCIÓN
 ### <span style="color: #2C837A; font-weight:bold;">Completa el siguiente formulario para registrarte!</span>
-<br>
+
 <a href="[https://drive.upm.es/s/xoqM7rxDg2fo6al](https://docs.google.com/forms/d/e/1FAIpQLScxaYG1qYPPrmg5h8QCs2LVK8G115P-D6Lkrcbr7eucIRWFug/viewform?usp=sf_link)" style="background-color: #7EBCB5; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Registrarse</a>
 
+<br>
 * * *
 
 
