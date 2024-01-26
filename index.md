@@ -100,7 +100,7 @@ layout: default
 <br>
 * * *
 ### <span style="color: #2C837A; font-weight:bold;">Con el aval de las sociedades españolas de Oncología Médica e Ingeniería Biomédica (SEOM y SEIB)</span>
-<br>
+
 ![SEOM](LogoSEOM_reduce.jpg)
 
 ![SEIB](logo-SEIB.jpg)
