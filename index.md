@@ -93,10 +93,10 @@ layout: default
 
 ## ORGANIZADORES 
 ### <span style="color: #2C837A; font-weight:bold;">Servicio de Oncología Médica del Hospital Universitario Infanda Sofía</span>
-![SEOM](LogoSEOM_reduce.jpg)
+![SEOM](logo-HUIS.jpg)
 <br>
 ### <span style="color: #2C837A; font-weight:bold;">Centro de Tecnología Biomédica de la Universidad Politécnica de Madrid (CTB - UPM)</span>
-![SEOM](LogoSEOM_reduce.jpg)
+![SEOM](logo-CTB.jpg)
 <br>
 * * *
 ### <span style="color: #2C837A; font-weight:bold;">Con el aval de las sociedades españolas de Oncología Médica e Ingeniería Biomédica (SEOM y SEIB)</span>
