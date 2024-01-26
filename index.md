@@ -76,6 +76,15 @@ layout: default
 ![SEOM](LogoSEOM_reduce.jpg)
 
 
+## CUÁNDO Y DÓNDE
+####<span style="color: #D4519D; font-weight:bold;">Viernes 1 de Marzo de 2024</span>   
+**Aula Magna** del Hospital Universitario Infanta Sofía
+*Avenida de Europa, 34* 
+*San Sebastián de los Reyes, Madrid*
+
+* * *
+
+
 ## INSCRIPCIÓN
 #### <span style="color: red; font-weight:bold;">Por completar...</span>  
 <br>
