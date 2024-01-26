@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-| [Programa](#programa) | [Inscripción](#inscripción) | [Patrocinadores](#patrocinadores) |
+| [Programa](#programa) | [Inscripción](#inscripción) | [Organizadores](#organizadores) |
 
 ### Realidad y retos multidisciplinares en la Comunidad de Madrid
 
