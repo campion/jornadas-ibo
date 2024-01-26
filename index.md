@@ -13,65 +13,66 @@ layout: default
 
 <a href="https://drive.upm.es/s/xoqM7rxDg2fo6al" style="background-color: #7EBCB5; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Descargar</a>
 
-### <span style="color: blue; font-weight:bold;">9.30-9.45 - ACTO INAUGURAL</span> 
+### <span style="color: blue; font-weight:bold;">09:30-09:50 - PRESENTACIÓN E INTRODUCCIÓN</span> 
 - **Enrique Casado Sáenz**, *Jefe de Oncología HUIS*.
 - **Enrique J. Gómez-Aguilera**, *Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica*.
+- **Javier de Castro**, *Vicepresidente de la Sociedad Española de Oncología Médica (SEOM)*.
 
-### <span style="color: blue; font-weight:bold;">9.45-10.05 - INTRODUCCIÓN: Oncología e Ingeniería Biomédica</span> 
-- **Enrique Casado y Enrique J. Gómez**.
+#### <span style="color: #2C837A; font-weight:bold;">Coordinación/moderación de sesiones: Enrique Casado y Enrique J. Gómez</span>
 
-### <span style="color: blue; font-weight:bold;">10.05-11.05 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR</span> 
+### <span style="color: blue; font-weight:bold;">09:50-10:50 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR</span> 
 
-#### 10:05-10:20- INFOBANCO
+#### 09:50-10:05 - INFOBANCO
 - **Juan Luis Cruz Bermúdez**, *Jefe de Serviciode Informática del Hospital Universitario 12 de Octubre*.
 
-#### 10:20-10:35 - CLARIFY (Cancer LongSurvivors Artificial Intelligence FollowUp)
+#### 10:05-10:20 - CLARIFY (Cancer LongSurvivors Artificial Intelligence FollowUp)
 - **María Torrente**, *Jefa de Programas Internacionales de Medicina del Hospital Universitario Puerta de Hierro*.
 
-#### 10:35.10:50 - SAVANA y Oncología
-- **Andrés Muñoz**, *Oncólogo en Hospital General Universitario Gregorio Marañón y Coordinador del Grupo de Trabajo de Trombosis y Cáncer de la SEOM*.
+#### 10:20.10:35 - SAVANA y Oncología
+- **Miren Taberna**, *Chief Scientific Officer Savana, Oncóloga*.
 
-#### 10:50-11:05 - Discusión
+#### 10:35-10:50 - Discusión
 
-### <span style="color: blue; font-weight:bold;">11:05-12:00 - MESA 2. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA</span>  
+### <span style="color: blue; font-weight:bold;">10:50-11:40 - MESA 2. SALUD DIGITAL Y TELEMEDICINA EN ONCOLOGÍA</span>  
 
-#### 11:05-11:20 - InnovaHONCO
-- **David Gutiérrez Abad**, *Oncólogo en el Hospital Universitario de Fuenlabrada*.
-
-#### 11:20-11:45 - mHEALTH-Alibird
+#### 10:50-11:10 - mHEALTH-Alibird
 - **María Sereno Moyano**, *Oncóloga, HUIS*.
 - **Jose Iniesta**, *Ingeniero Biomédico, UPM*.
 
-#### 11:45-12:00 - Discusión
+#### 11:10-11:25 - InnovaHONCO
+- **David Gutiérrez Abad**, *Oncólogo en el Hospital Universitario de Fuenlabrada*.
 
-### <span style="color: #D4519D; font-weight:bold;">12:00-12:40 - CAFÉ Y FORO EN MESAS</span>   
+#### 11:25-11:40 - Discusión
 
-### <span style="color: blue; font-weight:bold;">12:40-13:20 - MESA 3. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO</span>   
+### <span style="color: #D4519D; font-weight:bold;">11:40-12:20 - Café y foro en mesas</span>   
 
-#### 12:40-12:55- HOPE (Hospital de DíaPersonalizado)
+### <span style="color: blue; font-weight:bold;">12:20-13:05 - MESA 3. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO</span>   
+
+#### 12:20-12:35- HOPE (Hospital de DíaPersonalizado)
 - **Cristina Caramés**, *Oncóloga, Directora Asistencial e Investigación, QuirónSalud*.
 
-#### 12:55-13:10 - OncoTrack
+#### 12:35-12:50 - OncoTrack
 - **Enrique Casado**, *Oncólogo, HUIS*.
 - **Eduardo Cañada**, *Jefe Informática HUIS*.
 
-#### 13:10-13:25 - Discusión
+#### 12:50-13:05 - Discusión
 
-### <span style="color: blue; font-weight:bold;">13:25-14:35 - MESA 4. CIRUGÍA E IMAGEN MÉDICA. BIOÉTICA</span>   
+### <span style="color: blue; font-weight:bold;">13:05-14:35 - MESA 4. CIRUGÍA E IMAGEN MÉDICA. BIOÉTICA</span>   
 
-#### 13:25-13:50 - Cirugía digital
+#### 13:05-13:30 - Cirugía digital
 - **José María Balibrea**, *Jefe División de Cirugía Bariátrica y Endocrino-Metabólica, H. Germans Trias i Pujol*.
 
-#### 13:50-14:05 - Radiómica en Oncología
+#### 13:30-13:45 - Radiómica en Oncología
 - **Patricia Sánchez**, *Profesora de la Universidad Politécnicade Madrid*.
 
-#### 14:05-14:20 - Inteligencia Artificial y Humanización de la Medicina. Retos yoportunidades.
+#### 13:45-14:00 - Inteligencia Artificial y Humanización de la Medicina. Retos yoportunidades.
 - **Joaquín Ojeda**, *Neurólogo, Presidente del Cómite ética Asistencias y neurólogo HUIS*.
 
-#### 14:20-14:35 - Discusión
+#### 14:00-14:15 - Discusión
 
 ### <span style="color: #D4519D; font-weight:bold;">14:35-14:40 - CLAUSURA</span>   
-
+- **Antonio Romero Plasencia**, *Director Gerente Hospital Infanta Sofía*.
+- **Ana Ramírez de Molina**, *Viceconsejera de Universidades, Investigación y Ciencia de la Comunidad de Madrid.
 
 ## CUÁNDO Y DÓNDE
 ####<span style="color: #D4519D; font-weight:bold;">Viernes 1 de Marzo de 2024</span>   
