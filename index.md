@@ -78,7 +78,7 @@ layout: default
 * * *
 
 ## CUÁNDO Y DÓNDE
-####<span style="color: #D4519D; font-weight:bold;">Viernes 1 de Marzo de 2024</span>   
+#### <span style="color: #D4519D; font-weight:bold;">Viernes 1 de Marzo de 2024</span>   
 **Aula Magna** del Hospital Universitario Infanta Sofía
 <br>
 *Avenida de Europa, 34* 
