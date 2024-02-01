@@ -112,6 +112,11 @@ layout: default
 
 ![Fundación IIB-HUIS-HUH](logo-FIIB-HUIS-HUH_rd.jpg)
 
+
+<p align="center">
+    <img src="logo-CTB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto;">
+</p>
+
 <br>
 * * *
 ### <span style="color: #2C837A; font-weight:bold;">Con el aval de las sociedades españolas de Oncología Médica e Ingeniería Biomédica (SEOM y SEIB)</span>
