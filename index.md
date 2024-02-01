@@ -99,14 +99,6 @@ layout: default
 
 
 ## ORGANIZADORES 
-#### <span style="color: #2C837A; font-weight:bold;">Comité organizador</span>
-
-| Comité organizador        |          | 
-|:-------------|:------------------|
-| Enrique J. Gómez         | UPM-SEIB |
-| María Sereno | HUIS   |
-| Enrique Casado           | HUIS      | 
-
 
 | Comité organizador        | 
 |:-------------|
@@ -115,11 +107,12 @@ layout: default
 | Enrique Casado, HUIS           |
 
 <br>
-![CTB](logo-CTB.jpg)
-<br>
-![HUIS](logo-HUIS.jpg)
-<br>
+![CTB](logo-CTB_rd.jpg)
+
+![HUIS](logo-HUIS_rd.jpg)
+
 ![Fundación IIB-HUIS-HUH](logo-FIIB-HUIS-HUH_rd.jpg)
+
 <br>
 * * *
 ### <span style="color: #2C837A; font-weight:bold;">Con el aval de las sociedades españolas de Oncología Médica e Ingeniería Biomédica (SEOM y SEIB)</span>
