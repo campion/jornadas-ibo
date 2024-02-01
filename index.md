@@ -71,7 +71,7 @@ layout: default
 #### 14:00-14:15 - Discusión
 
 ### <span style="color: #D4519D; font-weight:bold;">14:35-14:40 - CLAUSURA</span>   
-- **Antonio Romero Plasencia**, *Director Gerente del Hospital Infanta Sofía*.
+- **Antonio Romero Plasencia**, *Director Gerente del Hospital Universitario Infanta Sofía*.
 - **Ana Ramírez de Molina**, *Viceconsejera de Universidades, Investigación y Ciencia de la Comunidad de Madrid*.
 
 <br>
