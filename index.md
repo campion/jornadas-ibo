@@ -125,3 +125,8 @@ layout: default
     <img src="logo-SEIB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; "><br>
 </div>
 
+#### Contacto
+
+>
+> Si tienes cualquier duda... [Ponte en contacto con Secretaría Técnica de las JIBO](mailto:jibo.secretariatecnica@gmail.com)
+> 
