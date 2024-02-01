@@ -99,11 +99,20 @@ layout: default
 
 
 ## ORGANIZADORES 
-### <span style="color: #2C837A; font-weight:bold;">Servicio de Oncología Médica del Hospital Universitario Infanda Sofía</span>
+#### <span style="color: #2C837A; font-weight:bold;">Comité organizador</span>
+
+| Comité organizador        |          | 
+|:-------------|:------------------|
+| Enrique J. Gómez         | UPM-SEIB |
+| María Sereno | HUIS   |
+| Enrique Casado           | HUIS`      | 
+
+<br>
+![CTB](logo-CTB.jpg)
+<br>
 ![HUIS](logo-HUIS.jpg)
 <br>
-### <span style="color: #2C837A; font-weight:bold;">Centro de Tecnología Biomédica de la Universidad Politécnica de Madrid (CTB - UPM)</span>
-![CTB](logo-CTB.jpg)
+![Fundación IIB-HUIS-HUH](logo-FIIB-HUIS-HUH_rd.jpg)
 <br>
 * * *
 ### <span style="color: #2C837A; font-weight:bold;">Con el aval de las sociedades españolas de Oncología Médica e Ingeniería Biomédica (SEOM y SEIB)</span>
