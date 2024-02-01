@@ -105,7 +105,14 @@ layout: default
 |:-------------|:------------------|
 | Enrique J. Gómez         | UPM-SEIB |
 | María Sereno | HUIS   |
-| Enrique Casado           | HUIS`      | 
+| Enrique Casado           | HUIS      | 
+
+
+| Comité organizador        | 
+|:-------------|:------------------|
+| Enrique J. Gómez         | UPM-SEIB |
+| María Sereno | HUIS   |
+| Enrique Casado           | HUIS      | 
 
 <br>
 ![CTB](logo-CTB.jpg)
