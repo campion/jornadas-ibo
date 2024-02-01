@@ -114,7 +114,9 @@ layout: default
 
 
 <p align="center">
-    <img src="logo-CTB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto;">
+    <img src="logo-CTB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto;"><br>
+    <img src="logo-HUIS_rd.jpg" alt="Logo" style="display: block; margin: 0 auto;"><br>
+    <img src="logo-FIIB-HUIS-HUH_rd.jpg" alt="Logo" style="display: block; margin: 0 auto;">
 </p>
 
 <br>
