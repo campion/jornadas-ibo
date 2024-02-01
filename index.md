@@ -106,7 +106,6 @@ layout: default
 | María Sereno, HUIS | 
 | Enrique Casado, HUIS           |
 
-<br>
 ![CTB](logo-CTB_rd.jpg)
 
 ![HUIS](logo-HUIS_rd.jpg)
