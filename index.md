@@ -106,16 +106,9 @@ layout: default
 | María Sereno, HUIS | 
 | Enrique Casado, HUIS           |
 
-![CTB](logo-CTB_rd.jpg)
-
-![HUIS](logo-HUIS_rd.jpg)
-
-![Fundación IIB-HUIS-HUH](logo-FIIB-HUIS-HUH_rd.jpg)
-
-
 <p align="center">
-    <img src="logo-CTB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 10px;">
-    <img src="logo-HUIS_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 10px;">
+    <img src="logo-CTB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 15px;">
+    <img src="logo-HUIS_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 15px;">
     <img src="logo-FIIB-HUIS-HUH_rd.jpg" alt="Logo" style="display: block; margin: 0 auto;">
 </p>
 
