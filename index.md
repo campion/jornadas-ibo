@@ -107,8 +107,8 @@ layout: default
 | Enrique Casado, HUIS           |
 
 <p align="center">
-    <img src="logo-CTB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 15px;">
-    <img src="logo-HUIS_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 15px;">
+    <img src="logo-CTB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 20px;">
+    <img src="logo-HUIS_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 20px;">
     <img src="logo-FIIB-HUIS-HUH_rd.jpg" alt="Logo" style="display: block; margin: 0 auto;">
 </p>
 
