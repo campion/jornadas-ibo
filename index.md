@@ -14,7 +14,7 @@ layout: default
 <a href="https://drive.upm.es/s/uuQIKIvSg3TJio6" style="background-color: #7EBCB5; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Descargar</a>
 
 ### <span style="color: blue; font-weight:bold;">09:30-09:50 - PRESENTACIÓN E INTRODUCCIÓN</span> 
-- **Enrique Casado Sáenz**, *Jefe de Oncología HUIS*.
+- **Enrique Casado Sáenz**, *Jefe de Oncología, Hospital Universitario Infanta Sofía (HUIS)*.
 - **Enrique J. Gómez-Aguilera**, *Catedrático de la Universidad Politécnica de Madrid y Presidente de la Sociedad Española de Ingeniería Biomédica*.
 - **Javier de Castro**, *Vicepresidente de la Sociedad Española de Oncología Médica (SEOM)*.
 
@@ -22,11 +22,11 @@ layout: default
 
 ### <span style="color: blue; font-weight:bold;">09:50-10:50 - MESA 1. INTELIGENCIA ARTIFICIAL Y CUIDADOS ONCOLÓGICOS BASADOS EN EL VALOR</span> 
 
-#### 09:50-10:05 - INFOBANCO
-- **Juan Luis Cruz Bermúdez**, *Jefe de Serviciode Informática del Hospital Universitario 12 de Octubre*.
+#### 09:50-10:05 - Plataforma de datos: INFOBANCO
+- **Juan Luis Cruz Bermúdez**, *Director de Transformación Digital, Hospital Universitario 12 de Octubre*.
 
-#### 10:05-10:20 - CLARIFY (Cancer LongSurvivors Artificial Intelligence FollowUp)
-- **María Torrente**, *Jefa de Programas Internacionales de Medicina del Hospital Universitario Puerta de Hierro*.
+#### 10:05-10:20 - CLARIFY (Cancer Long Survivors Artificial Intelligence Follow Up)
+- **María Torrente**, *Jefa de Programas Internacionales de Medicina, Hospital Universitario Puerta de Hierro*.
 
 #### 10:20.10:35 - SAVANA y Oncología
 - **Miren Taberna**, *Chief Scientific Officer Savana, Oncóloga*.
@@ -40,7 +40,7 @@ layout: default
 - **Jose Iniesta**, *Ingeniero Biomédico, UPM*.
 
 #### 11:10-11:25 - InnovaHONCO
-- **David Gutiérrez Abad**, *Oncólogo en el Hospital Universitario de Fuenlabrada*.
+- **David Gutiérrez Abad**, *Oncólogo, Hospital Universitario de Fuenlabrada*.
 
 #### 11:25-11:40 - Discusión
 
@@ -48,31 +48,31 @@ layout: default
 
 ### <span style="color: blue; font-weight:bold;">12:20-13:05 - MESA 3. PROCESOS. EL CIRCUITO DE TRATAMIENTO ONCOLÓGICO</span>   
 
-#### 12:20-12:35- HOPE (Hospital de DíaPersonalizado)
-- **Cristina Caramés**, *Oncóloga, Directora Asistencial e Investigación, QuirónSalud*.
+#### 12:20-12:35- HOPE (Hospital de Día Personalizado)
+- **Cristina Caramés**, *Directora Asistencial e Investigación, Oncóloga, QuirónSalud*.
 
 #### 12:35-12:50 - OncoTrack
-- **Enrique Casado**, *Oncólogo, HUIS*.
-- **Eduardo Cañada**, *Jefe Informática HUIS*.
+- **Enrique Casado**, *Oncólogo, Jefe de Oncología, HUIS*.
+- **Eduardo Cañada**, *Jefe Informática, HUIS*.
 
 #### 12:50-13:05 - Discusión
 
-### <span style="color: blue; font-weight:bold;">13:05-14:35 - MESA 4. CIRUGÍA E IMAGEN MÉDICA. BIOÉTICA</span>   
+### <span style="color: blue; font-weight:bold;">13:05-14:15 - MESA 4. CIRUGÍA E IMAGEN MÉDICA. BIOÉTICA</span>   
 
 #### 13:05-13:30 - Cirugía digital
-- **José María Balibrea**, *Jefe División de Cirugía Bariátrica y Endocrino-Metabólica, H. Germans Trias i Pujol*.
+- **José María Balibrea**, *Jefe de la División de Cirugía Bariátrica y Endocrino-Metabólica, Hospital Germans Trias i Pujol*.
 
 #### 13:30-13:45 - Radiómica en Oncología
 - **Patricia Sánchez**, *Profesora de la Universidad Politécnicade Madrid*.
 
-#### 13:45-14:00 - Inteligencia Artificial y Humanización de la Medicina. Retos yoportunidades.
-- **Joaquín Ojeda**, *Neurólogo, Presidente del Cómite ética Asistencias y neurólogo HUIS*.
+#### 13:45-14:00 - Inteligencia Artificial y Humanización de la Medicina. Retos y oportunidades.
+- **Joaquín Ojeda**, *Presidente del Cómite de Ética Asistencial, Neurólogo, HUIS*.
 
 #### 14:00-14:15 - Discusión
 
 ### <span style="color: #D4519D; font-weight:bold;">14:35-14:40 - CLAUSURA</span>   
-- **Antonio Romero Plasencia**, *Director Gerente Hospital Infanta Sofía*.
-- **Ana Ramírez de Molina**, *Viceconsejera de Universidades, Investigación y Ciencia de la Comunidad de Madrid.
+- **Antonio Romero Plasencia**, *Director Gerente del Hospital Infanta Sofía*.
+- **Ana Ramírez de Molina**, *Viceconsejera de Universidades, Investigación y Ciencia de la Comunidad de Madrid*.
 
 <br>
 * * *
