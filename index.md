@@ -139,6 +139,7 @@ layout: default
     <img src="5.png" alt="">
     <img src="6.png" alt="">
     <img src="7.png" alt="">
+    <img src="8.png" alt="">
     <!-- Agrega más logos según necesites -->
   </div>
 
