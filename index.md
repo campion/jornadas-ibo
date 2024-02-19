@@ -100,6 +100,8 @@ layout: default
 
 ## ORGANIZADORES 
 
+#### <span style="color: #4260B0; font-weight:bold;">Comité organizador:</span>**Enrique J. Gómez** (UPM-SEIB, **María Sereno** (HUIS), **Enrique Casado** (HUIS)      
+
 | Comité organizador        | 
 |:-------------|
 | Enrique J. Gómez, UPM-SEIB         | 
