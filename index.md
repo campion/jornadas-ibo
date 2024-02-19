@@ -100,20 +100,18 @@ layout: default
 
 ## ORGANIZADORES 
 
-#### <span style="color: #4260B0; font-weight:bold;">Comité organizador:</span>**Enrique J. Gómez** (UPM-SEIB, **María Sereno** (HUIS), **Enrique Casado** (HUIS)      
-
-| Comité organizador        | 
-|:-------------|
-| Enrique J. Gómez, UPM-SEIB         | 
-| María Sereno, HUIS | 
-| Enrique Casado, HUIS           |
+#### <span style="color: #4260B0; font-weight:bold;">Comité organizador: </span>**Enrique J. Gómez** (CTB-UPM, SEIB), **María Sereno** (HUIS), **Enrique Casado** (HUIS)      
 
 <br>
 
 <div align="center">
-    <img src="logo-CTB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; width: 600px; margin-bottom: 20px;"><br>
-    <img src="logo-HUIS_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; width: 600px; margin-bottom: 20px;"><br>
-    <img src="logo-FIIB-HUIS-HUH_rd.jpg" alt="Logo" style="display: block; width: 600px; margin: 0 auto;">
+    <img src="logo-CTB_rd.jpg" href="https://http://www.ctb.upm.es/" alt="CTB-UPM" style="display: block; margin: 0 auto; width: 600px; margin-bottom: 20px;">
+</div><br>
+<div align="center">
+    <img src="logo-HUIS_rd.jpg" href="https://www.comunidad.madrid/hospital/infantasofia" alt="HUIS" style="display: block; margin: 0 auto; width: 600px; margin-bottom: 20px;"><br>
+</div><br>
+<div align="center">
+    <img src="logo-FIIB-HUIS-HUH_rd.jpg" href="" alt="FIIB-HUIS-HUH" style="display: block; width: 600px; margin: 0 auto;">
 </div>
 
 <br>
@@ -123,9 +121,24 @@ layout: default
 ### <span style="color: #2C837A; font-weight:bold;">Con el aval de las sociedades españolas de Oncología Médica e Ingeniería Biomédica (SEOM y SEIB)</span>
 <br>
 <div align="center">
-    <img src="logo-SEOM_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; margin-bottom: 20px;"><br>
-    <img src="logo-SEIB_rd.jpg" alt="Logo" style="display: block; margin: 0 auto; "><br>
+    <img src="logo-SEOM_rd.jpg" href="https://seom.org/" alt="SEOM" style="display: block; margin: 0 auto; margin-bottom: 20px;"><br>
+    <img src="logo-SEIB_rd.jpg" href="https://seib.org.es/" alt="SEIB" style="display: block; margin: 0 auto; "><br>
 </div>
+
+## PATROCINADORES -ORO-
+
+  <div class="logos-container">
+    <img src="1.png" alt="">
+    <img src="2.png" alt="">
+    <img src="3.png" alt="">
+    <img src="4.png" alt="">
+    <img src="5.png" alt="">
+    <img src="6.png" alt="">
+    <img src="7.png" alt="">
+    <!-- Agrega más logos según necesites -->
+  </div>
+
+
 
 #### Contacto
 
