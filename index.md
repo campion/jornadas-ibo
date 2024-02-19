@@ -131,7 +131,7 @@ layout: default
 
 ## PATROCINADORES -ORO-
 
-  <div class="logos-container">
+  <div class="logos-container" align="center">
     <img src="1.png" alt="">
     <img src="2.png" alt="">
     <img src="3.png" alt="">
