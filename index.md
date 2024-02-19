@@ -125,6 +125,10 @@ layout: default
     <img src="logo-SEIB_rd.jpg" href="https://seib.org.es/" alt="SEIB" style="display: block; margin: 0 auto; "><br>
 </div>
 
+<br>
+* * *
+<br>
+
 ## PATROCINADORES -ORO-
 
   <div class="logos-container">
