@@ -129,6 +129,17 @@ layout: default
 * * *
 <br>
 
+## PATROCINADOR -PLATINO-
+
+  <div class="logos-container" align="center">
+    <img src="1-plus.png" alt="">
+    <!-- Agrega más logos según necesites -->
+  </div>
+
+<br>
+* * *
+<br>
+
 ## PATROCINADORES -ORO-
 
   <div class="logos-container" align="center">
